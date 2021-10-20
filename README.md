@@ -9,11 +9,11 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 When we separate the data into city type to compare the the average fare per ride and the average fare per driver, we see a few interesting patterns.The total fares per city type also follows a predictable pattern that the rural areas make the least with suburban making about 5 times the rural amount and urban areas making the most with nearly 10 times the total fares of the rural cities. We also see that the more urban areas have a significantly higher number of total rides and total drivers, than the suburban and rural areas. This can be expected with a more populated area and more potential demand for PyBer services.
 
 Interestingly, these differences in drivers and rides only translate to an average of 4$ more per ride for the rural rides over the suburban ones, $10 more per ride for the rural rides over the urban. This may indicate that the rides are longer in the rural areas resulting in larger fares. The lowest avearage fare per driver is with urban drivers who average $16.67 per driver. There is a more than 3 fold difference in the average fare per driver for the rural drivers at $55.49 per driver while the suburban drivers make nealy 2.5 the average fare of urban drivers with $39.50 per driver. This indicates that more drivers working in the more populated areas translates to lower average fares for those drivers. 
-![Top_5_Schools_Original.png](Resources/Top_5_Schools_Original.png)
+![Average_Fare_per_ride_driver_by_City_Type.png](analysis/Average_Fare_per_ride_driver_by_City_Type.png)
 
+In the multiple line chart for the Total Fare by City Type, we see that the highest earning city type is the Urban, with suburban cities and rural cities making less fares respectively. Over the weeks from early January 2019 to late April 2019, the total fares for each city type appear to be relatively flat within the city types without much variation. 
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
-
-In the multiple line 
 
 
 ## Summary: 
